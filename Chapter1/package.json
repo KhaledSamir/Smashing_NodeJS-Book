@@ -1,0 +1,7 @@
+{
+   "name" : "Chapter1Proejct",
+   "version" : "0.1.0",
+   "dependencies": {
+       "colors" : "0.5.0"
+   }
+}
